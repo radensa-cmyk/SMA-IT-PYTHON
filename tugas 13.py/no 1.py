@@ -1,7 +1,6 @@
 # Latihan 1: Membuat dan Mengakses
 tujuan_expedisi = ["argopuro", "leuser", "rinjani", "cartenz pyramid"]
 
-# Cetak seluruh list
 print("tujuan expedisi:", tujuan_expedisi)
 
 

@@ -1,4 +1,4 @@
-# Latihan 3: Traversing dan Modifikasi
+# Latihan 3: Modifikasi
 tanggal_expedisi = [23, 17, 1, 12, 23]
 
 for i in range(len(tanggal_expedisi)):
