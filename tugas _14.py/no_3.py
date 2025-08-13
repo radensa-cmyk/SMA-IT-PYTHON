@@ -1,4 +1,3 @@
-
 kalimat = input("Masukkan sebuah kalimat: ")
 kata_kata = kalimat.split()
 jumlah_kata = len(kata_kata)
