@@ -14,3 +14,4 @@ c[1] = 30
 print(f"a = {a}")
 print(f"b = {b}")
 print(f"c = {c}")
+ 
